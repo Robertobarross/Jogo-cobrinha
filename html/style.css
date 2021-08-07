@@ -1,0 +1,39 @@
+/* ------------------------------------ */
+body{
+    width: 99%;
+    height: 450px;
+    background-color: #2F4F4F; 
+}
+/* ------------------------------------ */
+
+
+/* ------------------------------------ */
+.h1{
+    font-size: 40px;
+    font-family: Arial black;
+    color: gray;
+    opacity:0.5;
+    text-shadow: gray 0.2em 0.3em 0.2em;
+    text-align: center;
+}
+.h1:hover{
+    opacity:1;
+    -webkit-transform: scale(1.3);
+    -ms-transform: scale(1.3);
+    transform: scale(1.3);
+}
+/* ------------------------------------ */
+
+
+/* ------------------------------------ */
+.canvas{
+    width: 512px;
+    height: 512px;
+    border: 10px solid gray;
+    border-radius: 20px;
+    box-shadow: -10px -10px 8px rgb(161, 159, 159);
+    margin-left: auto;
+    margin-right: auto;
+}
+/* ------------------------------------ */
+
